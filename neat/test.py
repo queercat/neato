@@ -20,5 +20,3 @@ connections = [
 ]
 
 genome = Genome(genes, connections)
-
-print(genome)
